@@ -1,0 +1,7 @@
+@Verkefni_ASP_HostAddress = http://localhost:5038
+
+GET {{Verkefni_ASP_HostAddress}}/api/students/
+
+Accept: application/json
+
+###
